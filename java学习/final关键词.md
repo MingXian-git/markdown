@@ -11,5 +11,3 @@
 5. final修饰的实例变量必须手动初始化
 
 6. final修饰的实例变量一般和static联合使用，成为常量`public static final double PI = 3.1415926`
-
-7. 
